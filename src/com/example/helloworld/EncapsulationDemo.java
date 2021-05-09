@@ -4,6 +4,7 @@ public class EncapsulationDemo extends abc{
     public static void main(String[] args) {
         EncapsulationDemo obj1 = new EncapsulationDemo();
         obj1.test();
+
     }
 }
 
