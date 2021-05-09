@@ -6,7 +6,6 @@ public class EncapsulationDemo extends abc{
         obj1.test();
     }
 }
-
 class abc {
     protected void test(){
         System.out.println("This is test method of class abc");
